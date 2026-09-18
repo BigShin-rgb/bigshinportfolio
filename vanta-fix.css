@@ -1,2 +1,3 @@
 .art-one > img,.art-two > img,.art-three > img{inset:0;width:100%;height:100%;object-fit:cover;background:#101718;box-shadow:none}
 .project-art > span,.project-art > p{color:#fff;text-shadow:0 1px 5px rgba(0,0,0,.7);background:rgba(8,14,16,.62);padding:5px 8px;border-radius:2px}
+.art-four > img{inset:0;width:100%;height:100%;object-fit:cover;box-shadow:none}
