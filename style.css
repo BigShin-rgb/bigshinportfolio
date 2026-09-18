@@ -1,2 +1,3 @@
 .project-art > img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;transition:transform .6s ease;z-index:0}.project:hover .project-art > img{transform:scale(1.035)}.project-art > img + p,.project-art > img ~ span{z-index:1;color:#fff;text-shadow:0 1px 8px rgba(0,0,0,.55)}
 .project-grid>.project:not(.project-large):not(.project-wide) .project-art{min-height:0;aspect-ratio:4/3}
+.art-three > img{inset:5%;width:90%;height:90%;object-fit:contain;background:#000;box-shadow:0 12px 30px rgba(16,19,20,.12)}
